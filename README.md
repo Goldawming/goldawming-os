@@ -1,2 +1,11 @@
-# goldawming-os
-Goldawming OS is a human-directed, AI-operated engineering system. It defines how AI is governed as a subordinate cognitive operator, focusing on accountability, traceability, ethics, and explainable engineering in security, operations, and automation. AI is not hidden — it is the object.
+# Goldawming OS
+
+Goldawming OS is a human-directed, AI-operated engineering system.
+
+This repository documents:
+- a governance-first model for AI usage
+- explicit human responsibility
+- a real, working Cognitive Companion (MVP-1)
+
+AI is not hidden here.
+It is constrained, audited, and subordinated by design.
